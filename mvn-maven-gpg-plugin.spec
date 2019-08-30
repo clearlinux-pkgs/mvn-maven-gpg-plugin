@@ -4,7 +4,7 @@
 #
 Name     : mvn-maven-gpg-plugin
 Version  : 1.6
-Release  : 2
+Release  : 3
 URL      : https://github.com/apache/maven-gpg-plugin/archive/maven-gpg-plugin-1.6.tar.gz
 Source0  : https://github.com/apache/maven-gpg-plugin/archive/maven-gpg-plugin-1.6.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-gpg-plugin/1.6/maven-gpg-plugin-1.6.jar
